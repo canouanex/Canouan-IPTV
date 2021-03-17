@@ -1,952 +1,629 @@
 #EXTM3U
-#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14160.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14170.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/92.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14159.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14169.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/93.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14158.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14168.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS 3 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/94.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 4
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/95.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 5
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39882.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 6
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1089.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 7
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1113.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 8
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1468.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 9
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1469.m3u8
-#EXTINF:-1,|FR| BEIN SPORTS MAX 10
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1470.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35031.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32713.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32718.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39589.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37931.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32714.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32719.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39588.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37930.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32715.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32720.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39587.m3u8
-#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37929.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32716.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32721.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/49323.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4K
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37942.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/32717.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37941.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37940.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37939.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37938.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37937.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37936.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37935.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37934.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37933.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/37932.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35340.m3u8
-#EXTINF:-1,|FR| •------• SPORT FRANCE •------• |FR|  
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24929.m3u8
-#EXTINF:-1,|FR| INFOSPORT FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13729.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14156.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14161.m3u8
-#EXTINF:-1,|FR| CANAL+ SPORT SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13936.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13728.m3u8
-#EXTINF:-1,|FR| LEQUIPE 21 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14005.m3u8
-#EXTINF:-1,|FR| EQUIPE 21 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1023.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13742.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14011.m3u8
-#EXTINF:-1,|FR| EUROSPORT 1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/57859.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13741.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14010.m3u8
-#EXTINF:-1,|FR| EUROSPORT 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/57860.m3u8
-#EXTINF:-1,|FR| OL TV FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13842.m3u8
-#EXTINF:-1,|FR| FOOT+ 24/24 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13937.m3u8
-#EXTINF:-1,|FR| FOOT+ 24/24 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13797.m3u8
-#EXTINF:-1,|FR| FOOT+ 24/24 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/425.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13802.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13807.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 3
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13806.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 4
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13805.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 5
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13804.m3u8
-#EXTINF:-1,|FR| MULTISPORTS 6
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13803.m3u8
-#EXTINF:-1,|FR| NBA TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/46216.m3u8
-#EXTINF:-1,|FR| EXTREME SPORTS
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13740.m3u8
-#EXTINF:-1,|FR| AUTOMOTO  HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/1035.m3u8
-#EXTINF:-1,|FR| MOTORSPORT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13782.m3u8
-#EXTINF:-1,|FR| MOTORSPORT FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13722.m3u8
-#EXTINF:-1,|FR| l'equipe 21 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13743.m3u8
-#EXTINF:-1,|FR| EQUIDIA HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14012.m3u8
-#EXTINF:-1,|FR| LUCKY JACK HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/42548.m3u8
-#EXTINF:-1,|FR| •------• SPORT GOLF •------• |FR|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24930.m3u8
-#EXTINF:-1,|FR| GOLF+ FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13734.m3u8
-#EXTINF:-1,|FR| GOLF CHANNEL FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13689.m3u8
-#EXTINF:-1,|FR| GOLF CHANNELS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13977.m3u8
-#EXTINF:-1,|BE| •------• SPORTS •------• |BE|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24966.m3u8
-#EXTINF:-1,|BE| PLAY SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/46646.m3u8
-#EXTINF:-1,|BE| PLAY SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/46647.m3u8
-#EXTINF:-1,|BE| PROXIMUS 11 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35336.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14137.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14136.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14128.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 3
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14135.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14134.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14133.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/46648.m3u8
-#EXTINF:-1,|AR| •------• BEINS SPORT •------• |AR|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24983.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS NEWS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24979.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS GLOBAL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24980.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13611.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13688.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 1 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13595.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13610.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13686.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13687.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13609.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13684.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13683.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13608.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13682.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13681.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13607.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13680.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13679.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13606.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13678.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13677.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13605.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13676.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13675.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13604.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13674.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13673.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13603.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13672.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13587.m3u8
-#EXTINF:-1,|AR| BEINSPORT 10 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13602.m3u8
-#EXTINF:-1,|AR| BEINSPORT 10 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13670.m3u8
-#EXTINF:-1,|AR| BEINSPORT 10 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13669.m3u8
-#EXTINF:-1,|AR| BEINSPORT 11 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24977.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD13
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21202.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD12
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/39881.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD14
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21201.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD15
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21200.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD16
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21199.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD17
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21198.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 1  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13601.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 2  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13612.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 3  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13613.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 4  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13614.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 5  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13615.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 6  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13616.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 7 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13617.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 8 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13618.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 9  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13641.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 10  SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/13642.m3u8
-#EXTINF:-1,|IT|***SKY Sport***|IT|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23589.m3u8
-#EXTINF:-1,|IT| SKY SPORT 24 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23588.m3u8
-#EXTINF:-1,|IT| SKY SPORT UNO HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23587.m3u8
-#EXTINF:-1,|IT| SKY SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23586.m3u8
-#EXTINF:-1,|IT| SKY SPORT FOOTBALL  HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23585.m3u8
-#EXTINF:-1,|IT| SKY SPORT ARENA FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23584.m3u8
-#EXTINF:-1,|IT| SKY SPORT COLLECTION HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23583.m3u8
-#EXTINF:-1,|IT| SKY SPORT WWE HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23582.m3u8
-#EXTINF:-1,|IT| SKY SPORT F1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23580.m3u8
-#EXTINF:-1,|IT| SKY MOTO GP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23579.m3u8
-#EXTINF:-1,|IT| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23578.m3u8
-#EXTINF:-1,|IT| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23577.m3u8
-#EXTINF:-1,|IT| SPORT ITALIA
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23576.m3u8
-#EXTINF:-1,|IT| FIGHT CHANNEL
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23575.m3u8
-#EXTINF:-1,|IT| SUPER TENNIS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23574.m3u8
-#EXTINF:-1,|IT| AUTOMOTO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23573.m3u8
-#EXTINF:-1,|IT| BIKE CHANNEL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23572.m3u8
-#EXTINF:-1,|IT| MILAN CHANNEL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23571.m3u8
-#EXTINF:-1,|IT| JUVENTUS TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23570.m3u8
-#EXTINF:-1,|IT| INTER CHANNEL
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23569.m3u8
-#EXTINF:-1,|IT| ROMA TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23568.m3u8
-#EXTINF:-1,|IT| LAZIO CHANNEL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23567.m3u8
-#EXTINF:-1,|IT| TOP CALCIO 24
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23566.m3u8
-#EXTINF:-1,|IT|*** CALCIO ***|IT|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24989.m3u8
-#EXTINF:-1,|IT| SKY SPORT 251 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23564.m3u8
-#EXTINF:-1,|IT| SKY SPORT 252 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23563.m3u8
-#EXTINF:-1,|IT| SKY SPORT 253 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23562.m3u8
-#EXTINF:-1,|IT| SKY SPORT 254 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23561.m3u8
-#EXTINF:-1,|IT| SKY SPORT 255 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23560.m3u8
-#EXTINF:-1,|IT| SKY SPORT 256 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23559.m3u8
-#EXTINF:-1,|IT| SKY SPORT 257 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23558.m3u8
-#EXTINF:-1,|IT| SKY CALCIO 8
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23557.m3u8
-#EXTINF:-1,|IT| SKY CALCIO 9
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23556.m3u8
-#EXTINF:-1,|IT| SKY CALCIO 10
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23555.m3u8
-#EXTINF:-1,|ES| •------• DEPORTES •------• |ES|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23155.m3u8
-#EXTINF:-1,|ES| M DEPORTES 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14065.m3u8
-#EXTINF:-1,|ES| M DEPORTES 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14066.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14064.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14062.m3u8
-#EXTINF:-1,|ES| TOROS FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23154.m3u8
-#EXTINF:-1,|ES| M GOL TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14082.m3u8
-#EXTINF:-1,|ES| M FÚTBOL FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14081.m3u8
-#EXTINF:-1,|ES| M FÚTBOL
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14080.m3u8
-#EXTINF:-1,|ES| M TELEDEPORTE
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14061.m3u8
-#EXTINF:-1,|ES| M beINSPORT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14076.m3u8
-#EXTINF:-1,|ES| M beINSPORTS
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14077.m3u8
-#EXTINF:-1,|ES| M beIN LALIGA
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14075.m3u8
-#EXTINF:-1,|ES| M beIN LALIGA FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14073.m3u8
-#EXTINF:-1,|ES| M LALIGA TV BAR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14072.m3u8
-#EXTINF:-1,|ES| M LALIGA TV Bar HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14071.m3u8
-#EXTINF:-1,|ES| M REAL MADRID TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14084.m3u8
-#EXTINF:-1,|ES| M BARCA TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14085.m3u8
-#EXTINF:-1,|ES| M CAMPEONES FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/45415.m3u8
-#EXTINF:-1,|ES| M LIGA DE CAMPEONES
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/45416.m3u8
-#EXTINF:-1,|ES| M DEPORTES 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14067.m3u8
-#EXTINF:-1,|ES| M DEPORTES 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14063.m3u8
-#EXTINF:-1,|ES| DAZN FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/59089.m3u8
-#EXTINF:-1,|ES| DAZN HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/59090.m3u8
-#EXTINF:-1,|ES| DAZN MOTO GP FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/59091.m3u8
-#EXTINF:-1,|ES| DAZN MOTO GP HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/59092.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14060.m3u8
-#EXTINF:-1,|ES| M EUROSPORT 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14059.m3u8
-#EXTINF:-1,|ES| M PARTIDAZO HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14068.m3u8
-#EXTINF:-1,|ES| M PARTIDAZO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14069.m3u8
-#EXTINF:-1,|ES| M FORMULA 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14053.m3u8
-#EXTINF:-1,|ES| M FORMULA 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14052.m3u8
-#EXTINF:-1,|ES| M MOTOGP FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14051.m3u8
-#EXTINF:-1,|ES| M MOTOGP HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14050.m3u8
-#EXTINF:-1,|ES| M GOLF HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14057.m3u8
-#EXTINF:-1,|PT| •------• SPORT •------• |PT|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23235.m3u8
-#EXTINF:-1,|PT| SPORT TV + HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14108.m3u8
-#EXTINF:-1,|PT| SPORT TV1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14102.m3u8
-#EXTINF:-1,|PT| SPORT TV1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14107.m3u8
-#EXTINF:-1,|PT| SPORT TV2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14101.m3u8
-#EXTINF:-1,|PT| SPORT TV2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14106.m3u8
-#EXTINF:-1,|PT| SPORT TV3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14100.m3u8
-#EXTINF:-1,|PT| SPORT TV3
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14105.m3u8
-#EXTINF:-1,|PT| SPORT TV4 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14099.m3u8
-#EXTINF:-1,|PT| SPORT TV4
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14104.m3u8
-#EXTINF:-1,|PT| SPORT TV5 FHD
-http://iptv8.premium-stv.com:2052/portugalSOURCEPRO2/2797998477/1577
-#EXTINF:-1,|PT| SPORT TV5 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14103.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29988.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 1 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35371.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29987.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35372.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29986.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 3 BKP
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/35373.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29985.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29984.m3u8
-#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29983.m3u8
-#EXTINF:-1,|PT| BENIFICA TV FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14092.m3u8
-#EXTINF:-1,|PT| BENIFICA TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14093.m3u8
-#EXTINF:-1,|PT| SPORTING TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14091.m3u8
-#EXTINF:-1,|PT|  CANAL 11
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/46339.m3u8
-#EXTINF:-1,|PT| A BOLA TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14087.m3u8
-#EXTINF:-1,|PT| PFC
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14086.m3u8
-#EXTINF:-1,|PT| KOMBATSPORT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14090.m3u8
-#EXTINF:-1,|PT| EUROSPORT NEWS
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14096.m3u8
-#EXTINF:-1,|PT| EUROSPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14097.m3u8
-#EXTINF:-1,|PT| EUROSPORT 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14095.m3u8
-#EXTINF:-1,|PT| EUROSPORT 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14094.m3u8
-#EXTINF:-1,|PT| FUEL TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23234.m3u8
-#EXTINF:-1,|PT| MOTORSPORT TV
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14089.m3u8
-#EXTINF:-1,|PT| MOTORVISION
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/14088.m3u8
-#EXTINF:-1,|PT| TOROS
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23233.m3u8
-#EXTINF:-1,|DE|*****SPORT*****|DE|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23707.m3u8
-#EXTINF:-1,|DE| SKY SPORT NEWS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23706.m3u8
-#EXTINF:-1,|DE| SKY SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23705.m3u8
-#EXTINF:-1,|DE|SKY SPORT 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23702.m3u8
-#EXTINF:-1,|DE| SKY SPORT 3HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23701.m3u8
-#EXTINF:-1,|DE| SKY SPORT 4HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23700.m3u8
-#EXTINF:-1,|DE| SKY SPORT 5HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23699.m3u8
-#EXTINF:-1,|DE| SKY SPORT 6HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23698.m3u8
-#EXTINF:-1,|DE| SKY SPORT 7HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23697.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 1HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23696.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 2HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23695.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 3HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23694.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 4HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23693.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 5HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23692.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 6HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23691.m3u8
-#EXTINF:-1,|DE| SKY BUNDESLIGA 7HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23690.m3u8
-#EXTINF:-1,|DE| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23689.m3u8
-#EXTINF:-1,|DE| EUROSPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23688.m3u8
-#EXTINF:-1,|DE| SPORT 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23687.m3u8
-#EXTINF:-1,|DE| SPORT 1   HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23686.m3u8
-#EXTINF:-1,|DE| AUTO MOTOR SPORT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/23685.m3u8
-#EXTINF:-1,|USA|******SPORTS******|USA|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24110.m3u8
-#EXTINF:-1,|USA| beINSPORT US
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24109.m3u8
-#EXTINF:-1,|USA| FOX SPORT 1HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24107.m3u8
-#EXTINF:-1,|USA| FOX SPORT 2HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24106.m3u8
-#EXTINF:-1,|USA| ESPN
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24105.m3u8
-#EXTINF:-1,|USA| ESPN 2HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24104.m3u8
-#EXTINF:-1,|USA| ESPN Deportes
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24102.m3u8
-#EXTINF:-1,|USA| ESPNEWS
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24100.m3u8
-#EXTINF:-1,|USA| ESPN U HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24101.m3u8
-#EXTINF:-1,|USA| BTN
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24099.m3u8
-#EXTINF:-1,|USA| CBS SPORTS NET
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24098.m3u8
-#EXTINF:-1,|USA| NBC SPORTS Net HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24097.m3u8
-#EXTINF:-1,|USA| NBC GOLF
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24096.m3u8
-#EXTINF:-1,|USA| Tennis Channel HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24095.m3u8
-#EXTINF:-1,|USA| FOX DEPORTES
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24094.m3u8
-#EXTINF:-1,|USA| WWE HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24093.m3u8
-#EXTINF:-1,|USA| MLB HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24092.m3u8
-#EXTINF:-1,|USA| NBA
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24091.m3u8
-#EXTINF:-1,|USA| NBA 1  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24090.m3u8
-#EXTINF:-1,|USA| NBA 2  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24089.m3u8
-#EXTINF:-1,|USA| NBA 3  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24088.m3u8
-#EXTINF:-1,|USA| NBA 4  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24087.m3u8
-#EXTINF:-1,|USA| NBA 5  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24086.m3u8
-#EXTINF:-1,|USA| NBA 6  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24085.m3u8
-#EXTINF:-1,|USA| NBA 7 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24084.m3u8
-#EXTINF:-1,|USA| NBA 8 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24083.m3u8
-#EXTINF:-1,|USA| NBA 9 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24082.m3u8
-#EXTINF:-1,|USA| NBA 10 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24081.m3u8
-#EXTINF:-1,|USA| NBA 11
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24080.m3u8
-#EXTINF:-1,|USA| NHL HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24079.m3u8
-#EXTINF:-1,|USA| NHL 1 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24078.m3u8
-#EXTINF:-1,|USA| NHL 2 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24077.m3u8
-#EXTINF:-1,|USA| NHL 3 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24076.m3u8
-#EXTINF:-1,|USA| NHL 4 MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24075.m3u8
-#EXTINF:-1,|USA| NHL 5  MATCH EVENT
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24074.m3u8
-#EXTINF:-1,|USA| NHL 6
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24073.m3u8
-#EXTINF:-1,|USA| NHL 7
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24072.m3u8
-#EXTINF:-1,|USA| NHL 8
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24071.m3u8
-#EXTINF:-1,|USA| NHL 9
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24070.m3u8
-#EXTINF:-1,|USA| NHL 10
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24069.m3u8
-#EXTINF:-1,|USA| NHL 11
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24068.m3u8
-#EXTINF:-1,|USA| NFL NETWORK HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24067.m3u8
-#EXTINF:-1,|USA| NFL 705
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24066.m3u8
-#EXTINF:-1,|USA| NFL 706
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24065.m3u8
-#EXTINF:-1,|USA| NFL 707
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24064.m3u8
-#EXTINF:-1,|USA| NFL 708
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24063.m3u8
-#EXTINF:-1,|USA| NFL 709
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24062.m3u8
-#EXTINF:-1,|USA| NFL 710
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24061.m3u8
-#EXTINF:-1,|USA| NFL 711
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24060.m3u8
-#EXTINF:-1,|USA| NFL 712
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24059.m3u8
-#EXTINF:-1,|USA| NFL 713
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24058.m3u8
-#EXTINF:-1,|USA| NFL 714
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24057.m3u8
-#EXTINF:-1,|USA| NFL 715
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24056.m3u8
-#EXTINF:-1,|USA| NFL 716
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24055.m3u8
-#EXTINF:-1,|USA| NFL 717
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/24054.m3u8
-#EXTINF:-1,|CH| TELECLUB SPORT 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/21766.m3u8
-#EXTINF:-1,|CH| MY SPORT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29559.m3u8
-#EXTINF:-1,|CH| MY SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29558.m3u8
-#EXTINF:-1,|CH| MY SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29557.m3u8
-#EXTINF:-1,|CH| MY SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29556.m3u8
-#EXTINF:-1,|CH| MY SPORT 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29555.m3u8
-#EXTINF:-1,|CH| MY SPORT 5 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29554.m3u8
-#EXTINF:-1,|CH| MY SPORT 6 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29553.m3u8
-#EXTINF:-1,|CH| MY SPORT 7 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29552.m3u8
-#EXTINF:-1,|CH| MY SPORT 8 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29551.m3u8
-#EXTINF:-1,|CH| MY SPORT9 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/29550.m3u8
-#EXTINF:-1,|CA| SPORTNET 360
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40746.m3u8
-#EXTINF:-1,|CA| SPORTNET ONE
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40747.m3u8
-#EXTINF:-1,|CA| SPORTNET ONTARIO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40748.m3u8
-#EXTINF:-1,|CA| SPORTS NET EAST HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40749.m3u8
-#EXTINF:-1,|CA| SPORTS NET ONE HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40750.m3u8
-#EXTINF:-1,|CA| SPORTS NET ONTARIO HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40751.m3u8
-#EXTINF:-1,|CA| SPORTS NET PACIFIC HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40752.m3u8
-#EXTINF:-1,|CA| SPORTS NET WORLD HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40753.m3u8
-#EXTINF:-1,|CA| SPORTSMAN CHANNEL CANADA
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40754.m3u8
-#EXTINF:-1,|CA| SPORTSNET 360
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40755.m3u8
-#EXTINF:-1,|CA| SPORTSNET 360 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40756.m3u8
-#EXTINF:-1,|CA| SPORTSNET EAST
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40757.m3u8
-#EXTINF:-1,|CA| SPORTSNET EAST HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40758.m3u8
-#EXTINF:-1,|CA| SPORTSNET ONE
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40759.m3u8
-#EXTINF:-1,|CA| SPORTSNET ONE HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40760.m3u8
-#EXTINF:-1,|CA| SPORTSNET ONTARIO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40761.m3u8
-#EXTINF:-1,|CA| SPORTSNET PACIFIC
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40762.m3u8
-#EXTINF:-1,|CA| SPORTSNET PACIFIC HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40763.m3u8
-#EXTINF:-1,|CA| SPORTSNET WEST
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40764.m3u8
-#EXTINF:-1,|CA| SPORTSNET WORLD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40765.m3u8
-#EXTINF:-1,|CA| SPORTSNET WORLD HD.
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/40766.m3u8
-#EXTINF:-1,|UK| •------• UK SPORT•------• |UK|  
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60933.m3u8
-#EXTINF:-1,|UK| SKY SPORTS NEWS FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60775.m3u8
-#EXTINF:-1,|UK| SKY SPORTS NEWS SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60887.m3u8
-#EXTINF:-1,|UK| SKY SPORTS FOOTBALL FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60780.m3u8
-#EXTINF:-1,|UK| SKY SPORTS FOOTBALL SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60883.m3u8
-#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60783.m3u8
-#EXTINF:-1,|UK| SKY SPORTS PREMIER LEAGUE HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60888.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60782.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MAIN EVENT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60885.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ARENA FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60777.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ARENA
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60879.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ACTION FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60776.m3u8
-#EXTINF:-1,|UK| SKY SPORTS ACTION HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60878.m3u8
-#EXTINF:-1,|UK| SKY SPORTS GOLF FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60781.m3u8
-#EXTINF:-1,|UK| SKY SPORTS GOLF HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60884.m3u8
-#EXTINF:-1,|UK| SKY SPORTS CRICKET FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60778.m3u8
-#EXTINF:-1,|UK| SKY SPORTS CRICKET HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60880.m3u8
-#EXTINF:-1,|UK| SKY SPORTS CRICKET SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60881.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MIX FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60774.m3u8
-#EXTINF:-1,|UK| SKY SPORTS MIX HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60886.m3u8
-#EXTINF:-1,|UK| SKY SPORTS RACING FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60773.m3u8
-#EXTINF:-1,|UK| SKY SPORTS RACING HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60889.m3u8
-#EXTINF:-1,|UK| SKY SPORTS F1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60779.m3u8
-#EXTINF:-1,|UK| SKY SPORTS F1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60882.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60749.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60750.m3u8
-#EXTINF:-1,|UK| PREMIER SPORTS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60856.m3u8
-#EXTINF:-1,|UK| EIR SPORTS FHD 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60716.m3u8
-#EXTINF:-1,|UK| EIR SPORTS FHD 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60717.m3u8
-#EXTINF:-1,|UK| FOX SPORTS ASIA HD 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60726.m3u8
-#EXTINF:-1,|UK| FOX SPORTS ASIA HD 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60727.m3u8
-#EXTINF:-1,|UK| FOX SPORTS ASIA HD 3
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60728.m3u8
-#EXTINF:-1,|UK| ELEVEN LALIGA FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60720.m3u8
-#EXTINF:-1,|UK| CELTIC TV (MATCH TIME) SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60927.m3u8
-#EXTINF:-1,|UK| EIR SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60819.m3u8
-#EXTINF:-1,|UK| EIR SPORT 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60820.m3u8
-#EXTINF:-1,|UK| CHALLANGE SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60928.m3u8
-#EXTINF:-1,|UK| BT 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60694.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60919.m3u8
-#EXTINF:-1,|UK| BT SPORT 1 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60920.m3u8
-#EXTINF:-1,|UK| BT 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60695.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60921.m3u8
-#EXTINF:-1,|UK| BT SPORT 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60922.m3u8
-#EXTINF:-1,|UK| BT 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60696.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60923.m3u8
-#EXTINF:-1,|UK| BT SPORT 3 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60924.m3u8
-#EXTINF:-1,|UK| BT ESPN FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60697.m3u8
-#EXTINF:-1,|UK| BT SPORT / ESPN HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60918.m3u8
-#EXTINF:-1,|UK| ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60718.m3u8
-#EXTINF:-1,|UK| ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60719.m3u8
-#EXTINF:-1,|UK| EUROSPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60714.m3u8
-#EXTINF:-1,|UK| EUROSPORT 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60821.m3u8
-#EXTINF:-1,|UK| EUROSPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60715.m3u8
-#EXTINF:-1,|UK| EUROSPORT 2 SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60822.m3u8
-#EXTINF:-1,|UK| MUTV HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60849.m3u8
-#EXTINF:-1,|UK| CHELSEA TV (Live On Matches) HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60702.m3u8
-#EXTINF:-1,|UK| CHELSEA TV SD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60802.m3u8
-#EXTINF:-1,|UK| RACING UK FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60752.m3u8
-#EXTINF:-1,|UK| RACING UK HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60858.m3u8
-#EXTINF:-1,|UK| FREE SPORTS FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60724.m3u8
-#EXTINF:-1,|UK| FREE SPORTS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60828.m3u8
-#EXTINF:-1,|PL| ELEVEN EXTRA HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62108.m3u8
-#EXTINF:-1,|PL| ELEVEN HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62109.m3u8
-#EXTINF:-1,|PL| ELEVEN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62110.m3u8
-#EXTINF:-1,|PL| ELEVEN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62111.m3u8
-#EXTINF:-1,|PL| ELEVEN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62112.m3u8
-#EXTINF:-1,|PL| ELEVEN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62113.m3u8
-#EXTINF:-1,|PL| ELEVEN SPORTS HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/62114.m3u8
-#EXTINF:-1,|AL| •------• SPORT ALBANIA •------• |AL|
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60093.m3u8
-#EXTINF:-1,|AL| Super Sport News
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60094.m3u8
-#EXTINF:-1,|AL| Super Sport 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60095.m3u8
-#EXTINF:-1,|AL| Super Sport 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60096.m3u8
-#EXTINF:-1,|AL| Super Sport 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60097.m3u8
-#EXTINF:-1,|AL| Super Sport 5 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60098.m3u8
-#EXTINF:-1,|AL| Super Sport 6 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60099.m3u8
-#EXTINF:-1,|AL| Super Sport 7
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60100.m3u8
-#EXTINF:-1,|AL| Super Sport Kosova 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60101.m3u8
-#EXTINF:-1,|AL| Super Sport Kosova 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60102.m3u8
-#EXTINF:-1,|AL| Tring Sport News HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60103.m3u8
-#EXTINF:-1,|AL| Tring Sport 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60104.m3u8
-#EXTINF:-1,|AL| Tring Sport 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60105.m3u8
-#EXTINF:-1,|AL| Tring Sport 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60106.m3u8
-#EXTINF:-1,|AL| Tring Sport 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60107.m3u8
-#EXTINF:-1,|AL| K Sport 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60108.m3u8
-#EXTINF:-1,|AL| K Sport 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60109.m3u8
-#EXTINF:-1,|AL| K Sport 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60110.m3u8
-#EXTINF:-1,|AL| K Sport 4 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60111.m3u8
-#EXTINF:-1,|AL| K Sport 5
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60112.m3u8
-#EXTINF:-1,|AL| Art Sport 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60113.m3u8
-#EXTINF:-1,|AL| Art Sport 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60114.m3u8
-#EXTINF:-1,|AL| Art Sport 3
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60115.m3u8
-#EXTINF:-1,|AL| ART Sport 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60116.m3u8
-#EXTINF:-1,|AL| ART Sport 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60117.m3u8
-#EXTINF:-1,|AL| ART Sport 3 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60118.m3u8
-#EXTINF:-1,|AL| Eurosport 1 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60119.m3u8
-#EXTINF:-1,|AL| Eurosport 2 HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60120.m3u8
-#EXTINF:-1,|AL| RTSH SPORT HD
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/60121.m3u8
-#EXTINF:-1,|EX-YU| ARENA SPORT 1 (SR)
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54227.m3u8
-#EXTINF:-1,|EX-YU| ARENA SPORT 2 (SR)
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54228.m3u8
-#EXTINF:-1,|EX-YU| ARENA SPORT 3 (SR)
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54229.m3u8
-#EXTINF:-1,|EX-YU| ARENA SPORT 4 (SR)
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54230.m3u8
-#EXTINF:-1,|EX-YU| ARENA SPORT 5 (SR)
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54231.m3u8
-#EXTINF:-1,|EX-YU| Eurosport 1
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54232.m3u8
-#EXTINF:-1,|EX-YU| Eurosport 2
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54233.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 4
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54234.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 5
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54235.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 6
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54236.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 7
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54237.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 8
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54238.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 9
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54239.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB 10
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54240.m3u8
-#EXTINF:-1,|EX-YU| SPORT KLUB Golf
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54241.m3u8
-#EXTINF:-1,|EX-YU| SPORT TV 1 HD SLO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54242.m3u8
-#EXTINF:-1,|EX-YU| SPORT TV 2 HD SLO
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54243.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 5 HR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54247.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 4 HR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54248.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 3 HR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54249.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 2 HR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/54250.m3u8
-#EXTINF:-1,|EX-YU| Arena Sport 1 HR
-http://iptvpro.premium-itv.com:8789/live/wLgupJh9UP/mEiFLXNZRx/
+http://37723998.to:2052/dale1/1234/24787?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1124?checkedby:hlscat.com 
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1127?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1130?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1134?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1095?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38901?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38186?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38185?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38202?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/168473?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170846?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/168474?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/119222?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/119225?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/119231?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/119213?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/118341?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/118341?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/119052?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/68437?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/46264?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/68439?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/46263?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36346?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36327?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36273?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36258?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36260?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36262?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36286?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36288?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36263?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36268?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36266?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36254?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1135?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1126?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1136?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170843?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/168473?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/168474?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36247?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36244?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36324?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20826?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126676?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126585?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17063?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17065?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17058?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17060?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17048?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17050?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17043?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17044?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17035?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17036?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17032?checkedby:hlscat.com
+
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17018?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17019?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17028?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17003?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/17011?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16994?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16983?checkedby:hlscat.com
+http://latinoamericatv.vip:3334/Yan/Yan123/16971?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16972?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16970?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16969?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16969?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16968?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16964?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16965?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16967?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16963?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16958?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16949?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16950?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16951?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16944?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16942?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16943?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16933?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16934?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/15802?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/16939?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/15845?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55993?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55979?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55975?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55977?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55963?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55967?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55959?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55957?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55935?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55921?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55920?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55919?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55875?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55876?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55840?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55843?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55848?checkedby:hlscat.com
+
+http://marveliptv.ddns.net:25461/noble/noble/55985?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/148645?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/148647?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/148643?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/148640?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24787?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24781?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24788?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24774?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24751?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24742?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24740?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24747?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24689?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24677?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1096?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1100?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1102?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1099?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1125?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1127?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1127?checkedby:hlscat.com
+
+http://latinoamericatv.vip:3334/Yan/Yan123/1095?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/51064?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/51071?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/51062?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/51062?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38901?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38202?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/205370?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/198154?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170838?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/68436?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/38174?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36272?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36250?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36252?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36254?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36255?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36257?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/50255?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170825?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126745?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/36303?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/68445?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20748?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20753?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20757?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20762?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170784?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170791?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/170794?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126843?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126811?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/126815?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/118342?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/118240?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/67908?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/50062?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43130?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43100?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43101?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43080?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43080?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43006?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/43038?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/42981?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/174173?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/174176?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/174177?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172219?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172223?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172228?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172218?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172221?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172214?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172194?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172195?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172197?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172190?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172182?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172168?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172172?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172179?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172180?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172158?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172165?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172132?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172135?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172132?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172137?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172140?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/172141?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20725?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20735?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20741?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20734?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20740?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/20740?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/181467?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/181439?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/178020?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/61?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/110912?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/110947?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/110918?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/45232?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/59546?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/3?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30302?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30303?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30304?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30308?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30310?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30307?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30309?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/30311?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/6?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/33885?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/31153?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/33901?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/33900?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/54448?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/33901?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/54441?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/28?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/54444?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/39?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/54446?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/125?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/31163?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/113?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/128583?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335856?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335854?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335873?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335853?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335872?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335857?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335857?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335868?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335869?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335870?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335871?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335845?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335846?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335841?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335840?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/174958?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/26015?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/335853?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/24416?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/146356?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/146287?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/146559?checkedby:hlscat.com
+
+http://152.89.62.111:8080/m123/m123/146556?checkedby:hlscat.com
+
+
+http://152.89.62.111:8080/m123/m123/146558?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21782?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21783?checkedby:hlscat.com
+
+
+http://37723998.to:2052/dale1/1234/21784?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21786?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21753?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21721?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21722?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21712?checkedby:hlscat.com
+
+http://37723998.to:2052/dale1/1234/21715?checkedby:hlscat.com
+
+http://185.71.64.167:80/p6iaQ09kWT/XHb9XKp7s1/82923?checkedby:hlscat.com
+
+http://185.71.64.167:80/p6iaQ09kWT/XHb9XKp7s1/82943?checkedby:hlscat.com
+
+http://185.71.64.167:80/p6iaQ09kWT/XHb9XKp7s1/82948?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/170841?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/170834?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/46264?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/36273?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/43130?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/43077?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/43091?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/43045?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/43007?checkedby:hlscat.com
+
+
+http://37723998.to:2052/joe1/joe2/174177?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/172283?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/172192?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/172140?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/474?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/473?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/472?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/470?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/470?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/466?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/278?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/277?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/276?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/5541?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/468?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/6541?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/215?checkedby:hlscat.com
+
+http://tv.nova-iptv.com:80/nedeljko2019/2019nedeljko/497?checkedby:hlscat.com
+
+http://ipflix.click:8080/hfyunps5x/gtu5xk4f6/13569?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/125917?checkedby:hlscat.com
+
+http://37723998.to:2052/joe1/joe2/125900?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103906?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103853?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103607?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103611?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103625?checkedby:hlscat.com
+
+http://goldenrocket.club:8080/XplatinumX/SfKjre4Drj/103643?checkedby:hlscat.com
+
+
+
 
 
 #EXTINF:-1,CA:TSN 5
@@ -963,110 +640,7 @@ http://portal.dijitaltv.site:8000/AydnHil1303/DfuG5WreVJ/57686
 http://portal.dijitaltv.site:8000/AydnHil1303/DfuG5WreVJ/57685
 
 
-#EXTINF:-1,Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-3)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:-1,Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1,BBC World News (Opt-1)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1,BBC World News (Opt-2)
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1,Discovery Science
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1,Discovery World (Opt-1)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Discovery World (Opt-2)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Euronews (Opt-1)
-http://61.58.60.230:9000/live/129.m3u8
-#EXTINF:-1,Euronews (Opt-2)
-https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1,Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,KIX (Asia)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,Landscape TV
-http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,NHK World (Opt-1)
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,NHK World (Opt-2)
-http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC UK +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1,QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,Sky News (Opt-1)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1,TLC HD World (Opt-1)
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-2)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1,Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
 #EXTINF:-1,~ Ireland TV ~
 http://www.lengua.com/anthems/Ireland.mp3
 #EXTINF:-1,TG4
